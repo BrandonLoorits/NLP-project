@@ -17,7 +17,8 @@ over ELMo, with BERT having an F1-score of
 features and 0.77566 with features. The supe-
 rior performance of BERT could potentially be
 attributed to its bi-directional nature and the
-inclusion of additional features in the model.
-This project is created for NLP course assignment.      
+inclusion of additional features in the model.     
+
+This project is created for NLP course assignment.     
 
 Authors are: Marek Kullerkupp, Tauno Tamm and Brandon Loorits
